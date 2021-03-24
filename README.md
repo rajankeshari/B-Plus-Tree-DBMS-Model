@@ -1,1 +1,1 @@
-### Multi Indexing DBMS Model for data storage using B+ Tree.
+### Multi Indexing DBMS Model for Data storage using B+ Tree.
